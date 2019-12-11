@@ -1,2 +1,2 @@
-# progress-report
-先用issue整理學習進度，等之後再換到hexo製作部落格
+# blog
+先用issue練習整理文章，等之後再學習到hexo製作部落格
